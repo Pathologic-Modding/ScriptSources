@@ -1,0 +1,15 @@
+<form name = "ui_game_pers_choose" x = "160" y = "100" w = "480" h = "200" script = "ui_game_pers_choose.bin" context = "gamemenu">
+	<form name = "danko_button" x = "160" y = "205" w = "152" h = "190" script = "ui_game_button_highlight.bin"> 
+		<image name = "default" x = "0" y = "0" w = "1" h = "1">ui/ui_hero_danko_off.tga</image>
+		<image name = "highlight" x = "0" y = "0" w = "1" h = "1">ui/ui_hero_danko.tga</image>
+	</form>
+	<form name = "klara_button" x = "320" y = "205" w = "152" h = "190" script = "ui_game_button_highlight.bin"> 
+		<image name = "default" x = "0" y = "0" w = "1" h = "1">ui/ui_hero_klara_off.tga</image>
+		<image name = "highlight" x = "0" y = "0" w = "1" h = "1">ui/ui_hero_klara.tga</image>
+	</form>
+	<form name = "burah_button" x = "480" y = "205" w = "152" h = "190" script = "ui_game_button_highlight.bin"> 
+		<image name = "default" x = "0" y = "0" w = "1" h = "1">ui/ui_hero_burah_off.tga</image>
+		<image name = "highlight" x = "0" y = "0" w = "1" h = "1">ui/ui_hero_burah.tga</image>
+	</form>
+	
+</form>
